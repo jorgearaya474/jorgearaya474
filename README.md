@@ -1,11 +1,11 @@
 # Hi, I'm Jorge Araya
 ### A full-stack developer from 🇨🇷
 
-### 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on Python<br>🌱 I’m currently learning Java<br>💬 Ask me about JavaScript and Sass<br>📫 How to reach me jorgearaya474@gmail.com<br>⚡ Fun fact I love pizza
 
 
-### 🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jorgel.araya.50) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-araya-25088a105)
 
 ## 💻 Tech Stack:
