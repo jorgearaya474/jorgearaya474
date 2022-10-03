@@ -2,7 +2,7 @@
 ### A full-stack developer from 🇨🇷
 
 ## 💫 About Me:
-🔭 I’m currently working on Python<br>🌱 I’m currently learning Java<br>💬 Ask me about JavaScript and Sass<br>📫 How to reach me jorgearaya474@gmail.com<br>⚡ Fun fact I love pizza
+🔭 I’m currently working on Python<br>🌱 I’m currently learning Java<br>💬 Ask me about JavaScript and Sass<br>📫 How to reach me jorgearaya474@gmail.com<br>⚡ Fun fact I love pizza.
 
 
 ## 🌐 Socials:
